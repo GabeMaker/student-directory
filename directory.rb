@@ -1,14 +1,11 @@
 # students into array
 students = [
-	"Gabriel Ar",
 	"Bibiana Am",
 	"Jin Da",
 	"Sanda Go",
 	"Hannah Ca",
 	"Huy Le",
 	"Marcin Wa",
-	"The Alien",
-	"The Joker",
 ]
 
 def print_header
