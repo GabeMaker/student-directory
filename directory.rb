@@ -7,3 +7,7 @@ puts "Sanda Go..."
 puts "Hannah Car" 
 puts "Huy Le..."
 puts "Marcin Wa..."
+print "Overall, we have "
+print 9
+puts " great students"
+# print "line1\nline2\nline3\n" - testing manual line breaks
