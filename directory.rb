@@ -1,3 +1,4 @@
+student_count = 9
 #first, we print the list of students
 puts "The students of my chohort at Makers Academy"
 puts "-------------"
@@ -11,8 +12,4 @@ puts "Marcin Wa..."
 puts "The Alien"
 puts "The Joker"
 #finally we print the total
-print "Overall, we have "
-#it's important that print() doesn't add new line characters
-print 9
-puts " great students"
-# print "line1\nline2\nline3\n" - testing manual line breaks
+puts "Overall, we have #{student_count} great students"
